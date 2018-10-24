@@ -12,7 +12,10 @@
 ### Simple Memo
 ![calc](https://github.com/speldipn/SimpleMemo/blob/master/screenshot/simplememo.gif)
 
+* RecyclerView와 SharedPreferences를 사용하여 만들어본 간단한 메모앱
+* RecyclerView : [Go to link](https://github.com/speldipn/RecyclerView)
 * 프로젝트 링크 : [Go to link](https://github.com/speldipn/SimpleMemo)
+
 <br>
 
 ---
